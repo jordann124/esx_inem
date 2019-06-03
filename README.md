@@ -1,6 +1,6 @@
 # esx_inem
 
-Simples é o esx_ambulancejob a dar , Traduzido para PT ! 
+Simplesmente é o esx_ambulancejob a dar , Traduzido para PT ! 
 
 # Instalação
 1. Instala O Script
