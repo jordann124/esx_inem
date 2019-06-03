@@ -16,7 +16,7 @@ Simplesmente é o esx_ambulancejob a dar , Traduzido para PT !
 - [Traduções - Jordann](https://github.com/jordann124) Traduzido para PT
 
 # Script Original
-- [Esx_Society](https://github.com/ESX-Org/esx_ambulancejob)
+- [Esx_Ambulancejob](https://github.com/ESX-Org/esx_ambulancejob)
 
 # Discord
 
